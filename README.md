@@ -1,4 +1,4 @@
 # Auto-Join-Zoom-Meetings
 Auto Join Zoom Meetings 
-python script
+by python script
 schedulable by task scheduler
